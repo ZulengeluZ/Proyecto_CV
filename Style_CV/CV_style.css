@@ -23,7 +23,7 @@
     border-left: 3px;
     border-right: 3px;
     border-style: ridge;
-    border-color: rgb(78, 77, 77);
+    border-color: rgb(8, 7, 7);
   }
 nav h1{
   color: aliceblue;
@@ -61,6 +61,9 @@ nav h1{
   width: 30px;
   font-size: 18px;
   color: rgb(236, 181, 16);
+}
+a:link {
+  color: rgb(253, 253, 253);
 }
 /* DIV Conocimiento */
 #Conocimiento{
